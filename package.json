@@ -1,0 +1,15 @@
+{
+  "name": "node-images",
+  "version": "0.0.1",
+  "author": {
+    "name": "Chris Suran",
+    "email": "suran.c@gmail.com",
+    "url": "https://github.com/suranc"
+  },
+  "scripts": {
+    "start": "node Server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
